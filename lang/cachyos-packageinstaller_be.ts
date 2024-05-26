@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="by">
+<TS version="2.1" language="be">
 <context>
     <name>MainWindow</name>
     <message>
@@ -608,7 +608,7 @@ OK to go ahead and install it?</source>
         <location filename="../src/mainwindow.cpp" line="2114"/>
         <source>Potentially dangerous operation.
 Please make sure you check carefully the list of packages to be removed.</source>
-<translation>Патэнцыйна небяспечная аперацыя.
+        <translation>Патэнцыйна небяспечная аперацыя.
 Калі ласка, пераканайцеся, што вы ўважліва азнаёміліся са спісам пакетаў, якія падлягаюць выдаленню.</translation>
     </message>
 </context>
@@ -672,7 +672,7 @@ Please make sure you check carefully the list of packages to be removed.</source
     <message>
         <location filename="../src/remotes.cpp" line="89"/>
         <source>Flathub is the main Flatpak remote and won&apos;t be removed</source>
-        <translation>Flathub з'яўляецца асноўным дыстанцыйным для Flatpak і не можа быць выдалены</translation>
+        <translation>Flathub з&apos;яўляецца асноўным дыстанцыйным для Flatpak і не можа быць выдалены</translation>
     </message>
     <message>
         <location filename="../src/remotes.cpp" line="104"/>
